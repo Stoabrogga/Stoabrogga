@@ -1,4 +1,4 @@
-I maintain [Project "Sol"](https://gitlab.com/opfesoft/sol), an open source MMORPG server for Linux based on AzerothCore. A few things about "Sol" and my priorities/decisions:
+I maintain [Project "Sol"](https://gitlab.com/opfesoft/sol) (and its [mirror](https://github.com/opfesoft/sol)), an open source MMORPG server for Linux based on AzerothCore. A few things about "Sol" and my priorities/decisions:
 - Supported client version is 3.3.5a, because in my opinion the game was great up to and including WotLK (and the old world was still intact at the time)
 - Linux only, as it is FOSS and I try to avoid proprietary software
 - MariaDB only, because I see it as the real successor to MySQL after the acquisition through Oracle
