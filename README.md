@@ -11,7 +11,7 @@ I maintain [Project "Sol"](https://gitlab.com/opfesoft/sol) (and its [mirror](ht
 About my hobby, working on WoW emulation:
 - Always wanted to work on video games, but not for money
 - Played retail WoW in 2005 and again from 2007 to 2011, quit because Cata was boring and awful, never did return
-- Played around with repacks in 2017
+- Played around with repacks created by [conan513](https://github.com/conan513) in 2017 and then compiled and installed my own AC server
 - Contributed over 200 commits to AC between 2018 and 2020
 - Started working solely on my own server software in March 2020, free and without restrictions from other projects
 - Deleted my old accounts and created new ones with the same name in order to cut all ties to the old projects/repositories and start all over again
