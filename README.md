@@ -6,6 +6,7 @@ I maintain [Project "Sol"](https://gitlab.com/opfesoft/sol) (and its [mirror](ht
 - Cannot test dungeons thoroughly as I'm working alone
 - Don't care about seasonal events, for me they never did fit into the WoW universe
 - Don't care about PvP
+- Don't care about localization (English is perfect, the German translation always has been awful and I assume this is also true for the other translations; sadly, most companies don't bother with good translations, too expensive)
 - Won't run a public server
 
 About my hobby, working on WoW emulation:
