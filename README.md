@@ -16,7 +16,7 @@ About my hobby, working on WoW emulation:
 - Contributed over 200 commits to AC between 2018 and 2020
 - Started working solely on my own server software in March 2020, free and without restrictions from other projects
 - Deleted my old accounts and created new ones with the same name in order to cut all ties to the old projects/repositories and start all over again
-- Still enjoy working on it, despite lacking the time to accomplish everything I want
+- Enjoyed working on it, despite lacking the time to accomplish everything I want, but finally quit 2024-07-29 because the client gets older and older and could just stop working any time (probably 2038 at the latest, see Y2K38 bug); without a client the server is useless
 
 Old accounts:
 - `38475780+Stoabrogga@users.noreply.github.com` (used for AC commits)
