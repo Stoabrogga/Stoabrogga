@@ -1,4 +1,9 @@
-I maintained [Project "Sol"](https://gitlab.com/opfesoft/sol) (and its [mirror](https://github.com/opfesoft/sol)) from 2020-03-01 to 2024-07-29, an open source MMORPG server for Linux based on AzerothCore. A few things about "Sol" and my priorities/decisions:
+I maintained [Project "Sol"](https://gitlab.com/opfesoft/sol) (and its [mirror](https://github.com/opfesoft/sol)) from 2020-03-01 to 2024-07-29, an open source MMORPG server for Linux based on AzerothCore. The reasons I finally quit:
+- The client gets older and older and could just stop working any time (probably 2038 at the latest, see Y2K38 bug); without a client the server is useless
+- After fixing so many quests and NPCs in the old world, Outland and Northrend, I realized that I did like the old world the most, so a server software supporting only vanilla would have been better suited in the first place
+- Less time due to RL
+
+Nevertheless, a few things about "Sol" and my priorities/decisions at the time:
 - Supported client version is 3.3.5a, because in my opinion the game was great up to and including WotLK (and the old world was still intact at the time)
 - Linux only, as it is FOSS and I try to avoid proprietary software
 - MariaDB only, because I see it as the real successor to MySQL after the acquisition through Oracle
@@ -16,8 +21,9 @@ About my hobby, working on WoW emulation:
 - Contributed over 200 commits to AC between 2018 and 2020
 - Started working solely on my own server software in March 2020, free and without restrictions from other projects
 - Deleted my old accounts and created new ones with the same name in order to cut all ties to the old projects/repositories and start all over again
-- Enjoyed working on it, despite lacking the time to accomplish everything I want, but finally quit 2024-07-29 because the client gets older and older and could just stop working any time (probably 2038 at the latest, see Y2K38 bug); without a client the server is useless
+- Enjoyed working on it, despite lacking the time to accomplish everything I want
 
 Old accounts:
 - `38475780+Stoabrogga@users.noreply.github.com` (used for AC commits)
 - `5532995-Stoabrogga@users.noreply.gitlab.com` (used for Sol commits from 2020-03-01 to 2023-06-24)
+
